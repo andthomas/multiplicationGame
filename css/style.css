@@ -1,0 +1,41 @@
+body {
+  background-color: white;
+  width: 500px;
+  margin: 0 auto;
+}
+
+#container {
+  magin: 0 auto;
+  width: 100%;
+  margin-top: 300px;
+  height: 200px;
+  border: 1px solid black;
+}
+
+#x, #y {
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  color: black;
+  display: inline-block;
+  text-align: center;
+  font-size: 80px;
+  padding-top; 10px;
+}
+
+.op {
+  display: inline-block;
+  font-size: 80px;
+}
+
+#inputAnswer {
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  color: black;
+  font-size: 80px;
+}
+
+form {
+  display: inline-block;
+}
